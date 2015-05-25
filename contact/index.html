@@ -8,28 +8,28 @@ layout: default
             <div class="col-sm-5">
                 <h3>Send Us a Message</h3>
                 <div class="contact-form-wrapper">
-                    <form class="form-horizontal" role="form">
+                    <form class="form-horizontal" role="form" action="//formspree.io/tourcaucasus@gmail.com" method="POST" id="form-contact">
                         <div class="form-group">
                             <label for="Name" class="col-sm-3 control-label"><b>Your name</b></label>
                             <div class="col-sm-9">
-                                <input class="form-control" id="Name" type="text" placeholder="">
+                                <input class="form-control" id="Name" name="name" type="text" placeholder="">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="contact-email" class="col-sm-3 control-label"><b>Your Email</b></label>
                             <div class="col-sm-9">
-                                <input class="form-control" id="contact-email" type="text" placeholder="">
+                                <input class="form-control" id="contact-email" name="_replyto" type="text" placeholder="">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="contact-message" class="col-sm-3 control-label"><b>Message</b></label>
                             <div class="col-sm-9">
-                                <textarea class="form-control" rows="5" id="contact-message"></textarea>
+                                <textarea class="form-control" rows="5" name="message" id="contact-message"></textarea>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-12">
-                                <button type="submit" class="btn pull-right">Send</button>
+                                <button type="button" class="btn pull-right" id="btn-send-message">Send</button>
                             </div>
                         </div>
                     </form>
