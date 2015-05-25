@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tourcaucasus.github.io/" # the base hostname & protocol for your site
 twitter_username: tourcaucasus
 github_username:  tourcaucasus
+phone: +995 577 111 729
+address: 3a, Alio Mirtskhulava St, Tbilisi, Georgia
 
 # Build settings
 markdown: kramdown

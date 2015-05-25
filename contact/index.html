@@ -22,17 +22,6 @@ layout: default
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="contact-message" class="col-sm-3 control-label"><b>Select Topic</b></label>
-                            <div class="col-sm-9">
-                                <select class="form-control" id="prependedInput">
-                                    <option>Please select topic...</option>
-                                    <option>General</option>
-                                    <option>Services</option>
-                                    <option>Orders</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="form-group">
                             <label for="contact-message" class="col-sm-3 control-label"><b>Message</b></label>
                             <div class="col-sm-9">
                                 <textarea class="form-control" rows="5" id="contact-message"></textarea>
@@ -48,10 +37,9 @@ layout: default
             </div>
             <div class="col-sm-7">
                 <p class="contact-us-details">
-                    <b>Address:</b> 123 Fake Street, LN1 2ST, London, United Kingdom<br/>
-                    <b>Phone:</b> +44 123 654321<br/>
-                    <b>Fax:</b> +44 123 654321<br/>
-                    <b>Email:</b> <a href="mailto:getintoutch@yourcompanydomain.com">getintoutch@yourcompanydomain.com</a>
+                    <b>Address:</b> {{ site.address }}<br/>
+                    <b>Phone:</b> {{ site.phone }}<br/>
+                    <b>Email:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </p>
             </div>
         </div>
