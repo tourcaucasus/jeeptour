@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Tusheti Tour"
+date:   2015-05-25 05:20:00
+categories: Tours
+price: 500$
+images: ["http://i.imgur.com/dzvfkON.jpg",
+         "http://i.imgur.com/fxNrVO8.jpg",
+         "http://upload.wikimedia.org/wikipedia/commons/a/a2/Watch_towers.jpg"]
+---
+
+
+Located on the northern slopes of the Greater Caucasus Mountains, Tusheti is bordered by the Russian republics of Chechnya and Dagestan to the north and east, respectively; and by the Georgian historic provinces Kakheti and Pshav-Khevsureti to the south and west, respectively. The population of the area is mainly ethnic Georgians called Tushs or Tushetians (Georgian: tushebi).
+
+Historically, Tusheti comprised four mountain communities: the Tsova (living in the Tsova Gorge), the Gometsari (living along the banks of the Tushetis Alazani River), the Pirikiti (living along the banks of the Pirikitis Alazani River) and the Chaghma, living close to the confluence of the two rivers). Administratively speaking, Tusheti is now part of the raioni of Akhmeta, itself part of Georgia's eastern region of Kakheti. The largest village in Tusheti is Omalo.
+
+The area is thought to have long been inhabited by the Tush, a subgroup of Georgians, which themselves divide into two groups- the Chaghma-Tush (Georgian name, used for Tush who speak the local Georgian dialect) and Tsova-Tush (Nakh-speaking Tush, better known as Bats or Batsbi). It is uncertain whether ethnic Georgians were there first or whether Bats were.[1] There are two major theories on the origins of the Bats (with various variations).
+
+One is that the Bats are the remnant of a larger Nakh-speaking people. Jaimoukha speculates that they may be descended from the Kakh, a historical people living in Kakheti and Tusheti (who apparently called themselves Kabatsa).[2] However, the belief that the Kakh were originally Nakh is not widely held. The Georgian name for the Bats, the Tsova-Tush, may also (or instead) be linked to the Tsov, a historical Nakh people claimed by the Georgian historian Melikishvilli to have ruled over the Kingdom of Sophene in Urartu (called Tsobena in Georgian) who were apparently forcefully moved to the region around Erebuni, a region linked to Nakh peoples by place names and various historiography.[3][4][5] However, theories linking the Bats to Transcaucasian peoples are not universally accepted (see below).

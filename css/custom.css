@@ -1,0 +1,8 @@
+.post-description{
+    max-height: 220px;
+    overflow-y: scroll;
+}
+
+.post-block {
+    min-height: 360px !important;
+}

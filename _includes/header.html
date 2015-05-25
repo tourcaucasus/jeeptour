@@ -1,0 +1,27 @@
+<div class="mainmenu-wrapper">
+  <div class="container">
+    <nav id="mainmenu" class="mainmenu">
+      <ul>
+        <li class="logo-wrapper">
+          <a href="{{ site.baseurl }}/">
+            <img src="/img/mPurpose-logo.png" alt="{{ site.title }}">
+          </a>
+        </li>
+        <li class="active">
+          <a href="{{ site.baseurl }}/">Home</a>
+        </li>
+        <li >
+          <a href="{{ "contact" | prepend: site.baseurl }}/">Contact</a>
+        </li>
+        {% for page in site.pages %}
+          {% if page.title %}
+            <li>
+              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+
+      </ul>
+    </nav>
+  </div>
+</div>

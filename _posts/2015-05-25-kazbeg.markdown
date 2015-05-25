@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Kazbegi Tour"
+date:   2015-05-25 05:20:00
+categories: Tours
+price: 300$
+images: ["http://i.imgur.com/wM8I1lV.jpg",
+         "http://upload.wikimedia.org/wikipedia/commons/2/2c/Kazbegi_district_%281%29.jpg"]
+---
+
+The town is located along the banks of the Terek River, 157 kilometers (98 mi) to the north of Tbilisi at an elevation of 1,740 meters (5,710 feet) above sea level. Stepantsminda’s climate is moderately humid with relatively dry, cold winters and long and cool summers. The average annual temperature is 4.9 degrees Celsius. January is the coldest month with an average temperature of -5.2 degrees Celsius while July is the warmest month with an average temperature of 14.4 degrees Celsius. The absolute minimum recorded temperature is -34 degrees Celsius and the absolute maximum is 32 degrees Celsius. Stepantsminda’s average annual precipitation is 790 mm. (31.1 inches). The town is dominated by large mountains on all sides. The most notable mountain of the region, Mount Kazbek, lies immediately to the west of town. The second most prominent peak, Mt. Shani, rises to an elevation of 4,451 meters (14,600 feet) above sea level, 9 kilometers to the east of Stepantsminda. The town is located 10 kilometers to the south of the famous Darial Gorge.
