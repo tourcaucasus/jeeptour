@@ -4,7 +4,7 @@
       <ul>
         <li class="logo-wrapper">
           <a href="{{ site.baseurl }}/">
-            <img src="/img/mPurpose-logo.png" alt="{{ site.title }}">
+            <img src="{{"/img/mPurpose-logo.png" | prepend: site.baseurl}}" alt="{{ site.title }}">
           </a>
         </li>
 
@@ -20,11 +20,11 @@
 
         {% if "/contact/index.html" == page.url %}
           <li class="active">
-            <a href="/contact">Contact</a>
+            <a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a>
           </li>
         {% else %}
           <li>
-            <a href="/contact">Contact</a>
+            <a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a>
           </li>
         {% endif %}
 
