@@ -2,7 +2,7 @@
 title: Jeep Tour
 email: tourcaucasus@gmail.com
 description: Tours To Georgia
-baseurl: "/jeeptour/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nextstopgeorgia.com/" # the base hostname & protocol for your site
 twitter_username: tourcaucasus
 github_username:  tourcaucasus
