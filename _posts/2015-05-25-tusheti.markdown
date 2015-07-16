@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tusheti Tour!!!!"
+title: Tusheti Tour
 date: {}
 categories: Tours
 price: 500$
