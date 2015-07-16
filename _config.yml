@@ -1,15 +1,15 @@
 # Site settings
-title: Jeep Tour
-email: tourcaucasus@gmail.com
-description: Tours To Georgia
+title: "Jeep Tour"
+email: "tourcaucasus@gmail.com"
+description: "Tours To Georgia"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nextstopgeorgia.com/" # the base hostname & protocol for your site
-twitter_username: tourcaucasus
-github_username:  tourcaucasus
-twitter_url: https://twitter.com/TourCaucasus
-facebook_url: https://www.facebook.com/901932036535185
-phone: +995 577 111 729
-address: 3a, Alio Mirtskhulava St, Tbilisi, Georgia
+twitter_username: "tourcaucasus"
+github_username:  "tourcaucasus"
+twitter_url: "https://twitter.com/TourCaucasus"
+facebook_url: "https://www.facebook.com/901932036535185"
+phone: "+995 577 111 729"
+address: "3a, Alio Mirtskhulava St, Tbilisi, Georgia"
 
 # Build settings
 markdown: kramdown
