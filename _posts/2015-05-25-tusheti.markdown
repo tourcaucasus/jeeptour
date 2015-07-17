@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tusheti Tour
-date: 2015-05-24 22:20:00 -0700
+date: "2015-05-24 22:20:00 -0700"
 categories: Tours
 price: 500$
 images: 
@@ -16,7 +16,8 @@ published: true
 
 
 
-Located!!!! on the northern slopes of the Greater Caucasus Mountains, Tusheti is bordered by the Russian republics of Chechnya and Dagestan to the north and east, respectively; and by the Georgian historic provinces Kakheti and Pshav-Khevsureti to the south and west, respectively. The population of the area is mainly ethnic Georgians called Tushs or Tushetians (Georgian: tushebi).
+
+Located on the northern slopes of the Greater Caucasus Mountains, Tusheti is bordered by the Russian republics of Chechnya and Dagestan to the north and east, respectively; and by the Georgian historic provinces Kakheti and Pshav-Khevsureti to the south and west, respectively. The population of the area is mainly ethnic Georgians called Tushs or Tushetians (Georgian: tushebi).
 
 Historically, Tusheti comprised four mountain communities: the Tsova (living in the Tsova Gorge), the Gometsari (living along the banks of the Tushetis Alazani River), the Pirikiti (living along the banks of the Pirikitis Alazani River) and the Chaghma, living close to the confluence of the two rivers). Administratively speaking, Tusheti is now part of the raioni of Akhmeta, itself part of Georgia's eastern region of Kakheti. The largest village in Tusheti is Omalo.
 
