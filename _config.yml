@@ -13,3 +13,4 @@ address: "3a, Alio Mirtskhulava St, Tbilisi, Georgia"
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
