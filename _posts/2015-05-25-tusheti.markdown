@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tusheti Tour
-date: {}
+date: 2015-05-24 22:20:00 -0700
 categories: Tours
 price: 500$
 images: 
